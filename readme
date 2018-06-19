@@ -1,0 +1,22 @@
+https://www.bilibili.com/video/av9784617
+
+北京理工大学--《Python网络爬虫与信息提取》
+
+week1
+    requests库
+    requests的主要方法:request/get/head/post/put/patch/delete  常用get方法
+    robots协议：user-agent disallow
+    几个爬虫的demo
+    6 7 15 16 17 18 19
+
+week2
+    Beautiful Soup
+    22 23 24 25
+
+todo
+    信息标记
+    27
+
+
+
+
